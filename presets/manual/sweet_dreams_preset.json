@@ -1,0 +1,15 @@
+{
+  "song": "sweet_dreams",
+  "display_name": "Sweet Dreams",
+  "source": "manual",
+  "features": {
+    "brightness": 0.8,
+    "warmth": 0.3,
+    "pitch_tightness": 0.85,
+    "formant_shift": -0.1,
+    "compression_density": 0.75,
+    "air": 0.7,
+    "reverb_amount": 0.35,
+    "delay_amount": 0.15
+  }
+}

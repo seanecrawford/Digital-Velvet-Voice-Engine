@@ -1,0 +1,17 @@
+{
+  "file": "So Special (Vocals).wav",
+  "sample_rate": 48000,
+  "duration_sec": 206.0,
+  "features": {
+    "rms_mean": 0.070716,
+    "rms_std": 0.051464,
+    "spectral_centroid_mean": 4630.769,
+    "spectral_centroid_std": 2228.5,
+    "zero_crossing_rate_mean": 0.085006,
+    "pitch_mean_hz": 294.818,
+    "pitch_std_hz": 109.395,
+    "voiced_ratio": 0.790504,
+    "vibrato_rate_hz": 3.267,
+    "vibrato_depth_hz": 109.395
+  }
+}

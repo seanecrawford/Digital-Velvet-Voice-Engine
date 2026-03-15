@@ -1,0 +1,17 @@
+{
+  "file": "Sweet Dreams Final (Vocals).wav",
+  "sample_rate": 48000,
+  "duration_sec": 213.24,
+  "features": {
+    "rms_mean": 0.060916,
+    "rms_std": 0.046332,
+    "spectral_centroid_mean": 5940.189,
+    "spectral_centroid_std": 3146.552,
+    "zero_crossing_rate_mean": 0.150491,
+    "pitch_mean_hz": 313.665,
+    "pitch_std_hz": 125.064,
+    "voiced_ratio": 0.622699,
+    "vibrato_rate_hz": 3.065,
+    "vibrato_depth_hz": 125.064
+  }
+}
